@@ -1,0 +1,23 @@
+.Layout {
+  background-color: #3f3f44;
+  padding: 3em;
+  min-height: 100vh;
+  .content {
+    padding-top: 12rem;
+  }
+  h1, h3, .html {
+    margin: 3rem;
+    font-family: 'Press Start 2P', cursive;
+    color: #9dc6a7;
+    font-size: 1.4rem;
+  }
+  .html {
+    font-size: 1.1rem;
+    line-height: 2.5rem;
+  }
+  .note {
+    max-width: 780px;
+    border: 1px solid #9dc6a7;
+    margin: 3rem;
+  }
+}
